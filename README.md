@@ -46,5 +46,11 @@ Each nested key is mapped to its parent object for easy access
 #### Do i have to type the full name of a key?
 
 No, all related keys can be displayed by just typing a character that is in the key.
+
+#### Why do you have multiple test strings, and how to input?
+
+As per the requirements, the user wanted to manually input their strings, i have included other 
+test strings to show the test cases that were tested, to change and test your string, change the variable
+titled test string
   
 
